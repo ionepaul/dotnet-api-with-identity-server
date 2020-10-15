@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>my-fancy-api</name>
+    </assembly>
+    <members>
+        <member name="M:my_fancy_api.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{my_fancy_api.Controllers.WeatherForecastController})">
+            <summary>
+            test
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:my_fancy_api.Controllers.WeatherForecastController.Get">
+            <summary>
+            test
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:my_fancy_api.Swagger.SwaggerAuthenticationRequirementsOperationFilter">
+            <summary>
+            Configures swagger to pass the access token in authorization header
+            </summary>
+        </member>
+    </members>
+</doc>
